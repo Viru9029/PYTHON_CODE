@@ -1,0 +1,5 @@
+values = str(input("Enter the sequence of comma-separated numbers : "))
+list = values.split(",")
+tuple = tuple(list)
+print('List : ', list)
+print('Tuple : ', tuple)

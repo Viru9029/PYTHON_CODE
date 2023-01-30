@@ -1,0 +1,101 @@
+Artificial intelligence
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+"AI" redirects here. For other uses, see AI (disambiguation), Artificial intelligence (disambiguation), and Intelligent agent.
+
+This article may have too many section headers dividing up its content. Please help improve the article by merging similar sections and removing unneeded subheaders. (July 2022) (Learn how and when to remove this template message)
+Part of a series on
+Artificial intelligence
+Anatomy-1751201 1280.png
+Major goals
+Approaches
+Philosophy
+History
+Technology
+Glossary
+vte
+Artificial intelligence (AI) is intelligence - perceiving, synthesizing, and infering information - demonstrated by machines, as opposed to intelligence displayed by animals and humans. Example tasks in which this is done include speech recognition, computer vision, translation between (natural) languages, as well as other mappings of inputs. OED (OUP) defines artificial intelligence as:[1]
+
+the theory and development of computer systems able to perform tasks that normally require human intelligence, such as visual perception, speech recognition, decision-making, and translation between languages.
+
+Several important sub-fields of AI research (as opposed to AI itself) have used working definitions of the intelligent agents field of study, which refers to any system that perceives its environment using an AI-component and takes actions (using procedural / hard-coded components) that maximize its chance of achieving its goals.[a] While intelligent agents as systems that use artificial intelligence are an important application of AI, many AI systems do not perform any procedural (hard-coded) steps with the outputs of the AI at all, such as computer vision, speech recognition, or recommender systems (often not even decising on an output from probabilities, but outputting several).
+
+The term "artificial intelligence" had previously been used to describe machines that mimic and display "human" cognitive skills that are associated with the human mind, such as "learning" and "problem-solving". This definition has since been rejected by major AI researchers who now describe AI in terms of rationality and acting rationally, which does not limit how intelligence can be articulated.[b]
+
+AI applications include advanced web search engines (e.g., Google), recommendation systems (used by YouTube, Amazon and Netflix), understanding human speech (such as Siri and Alexa), self-driving cars (e.g., Tesla), automated decision-making and competing at the highest level in strategic game systems (such as chess and Go).[3] As machines become increasingly capable, tasks considered to require "intelligence" are often removed from the definition of AI, a phenomenon known as the AI effect.[4] For instance, optical character recognition is frequently excluded from things considered to be AI,[5] having become a routine technology.[6]
+
+Artificial intelligence was founded as an academic discipline in 1956, and in the years since has experienced several waves of optimism,[7][8] followed by disappointment and the loss of funding (known as an "AI winter"),[9][10] followed by new approaches, success and renewed funding.[8][11] AI research has tried and discarded many different approaches since its founding, including simulating the brain, modeling human problem solving, formal logic, large databases of knowledge and imitating animal behavior. In the first decades of the 21st century, highly mathematical-statistical machine learning has dominated the field, and this technique has proved highly successful, helping to solve many challenging problems throughout industry and academia.[11][12]
+
+The various sub-fields of AI research are centered around particular goals and the use of particular tools. The traditional goals of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception, and the ability to move and manipulate objects.[c] General intelligence (the ability to solve an arbitrary problem) is among the field's long-term goals.[13] To solve these problems, AI researchers have adapted and integrated a wide range of problem-solving techniques – including search and mathematical optimization, formal logic, artificial neural networks, and methods based on statistics, probability and economics. AI also draws upon computer science, psychology, linguistics, philosophy, and many other fields.
+
+The field was founded on the assumption that human intelligence "can be so precisely described that a machine can be made to simulate it".[d] This raised philosophical arguments about the mind and the ethical consequences of creating artificial beings endowed with human-like intelligence; these issues have previously been explored by myth, fiction and philosophy since antiquity.[15] Computer scientists and philosophers have since suggested that AI may become an existential risk to humanity if its rational capacities are not steered towards beneficial goals.[e]
+
+
+Contents
+1	History
+2	Goals
+2.1	Reasoning, problem-solving
+2.2	Knowledge representation
+2.3	Planning
+2.4	Learning
+2.5	Natural language processing
+2.6	Perception
+2.7	Motion and manipulation
+2.8	Social intelligence
+2.9	General intelligence
+3	Tools
+3.1	Search and optimization
+3.2	Logic
+3.3	Probabilistic methods for uncertain reasoning
+3.4	Classifiers and statistical learning methods
+3.5	Artificial neural networks
+3.5.1	Deep learning
+3.6	Specialized languages and hardware
+4	Applications
+5	Philosophy
+5.1	Defining artificial intelligence
+5.1.1	Confusion with intelligent agents
+5.2	Evaluating approaches to AI
+5.2.1	Symbolic AI and its limits
+5.2.2	Neat vs. scruffy
+5.2.3	Soft vs. hard computing
+5.2.4	Narrow vs. general AI
+5.3	Machine consciousness, sentience and mind
+5.3.1	Consciousness
+5.3.2	Computationalism and functionalism
+5.3.3	Robot rights
+6	Future
+6.1	Superintelligence
+6.2	Risks
+6.2.1	Technological unemployment
+6.2.2	Bad actors and weaponized AI
+6.2.3	Algorithmic bias
+6.2.4	Existential risk
+6.2.5	Copyright
+6.3	Ethical machines
+6.4	Regulation
+7	In fiction
+8	Scientific diplomacy
+8.1	Warfare
+8.1.1	Russo-Ukrainian War
+8.1.2	Warfare regulations
+8.2	Cybersecurity
+8.2.1	Czech Republic's approach
+8.2.2	Germany's approach
+8.2.3	European Union's approach
+8.2.4	Russo-Ukrainian War
+8.3	Election security
+8.4	Future of work
+8.4.1	Facial recognition
+8.4.2	AI and school
+8.4.3	AI and medicine
+8.4.4	AI in business
+8.4.5	Business and diplomacy
+8.5	AI and foreign policy
+9	See also
+10	Explanatory notes
+11	Citations
+12	References
+12.1	AI textbooks
+12.2	History of AI
+12.3	Other sources

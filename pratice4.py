@@ -1,0 +1,6 @@
+a = int(input("Accept the numbers : "))
+b = int(input("Accept the numbers : "))
+c = int(input("Accept the numbers : "))
+d = int(input("Accept the numbers : "))
+print("List : ['{}', '{}', '{}', '{}']".format(a, b, c, d))
+print("Tuple : ('{}', '{}', '{}', '{}')".format(a, b, c, d))
