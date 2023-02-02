@@ -13,5 +13,6 @@ def count_char(string):
         initial_char[i] += 1
     print(initial_char)
 
+
 string = input('Enter a string to count characters : ')
 count_char(string)
